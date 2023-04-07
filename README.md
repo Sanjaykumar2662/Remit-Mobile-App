@@ -1,3 +1,3 @@
-# Remit-Mobile-App
-Its app created using flutter which is capable of reducing the mobile usage time of a user
-We done this project for Smart India Hackathon 2022 and won a cash prize of rupees 1 Laksh Ruppes 
+# remit_apk
+This is a Flutter based application for controlling the user's phone addiction.
+This application was created for India's Biggest Hackathon - Smart India Hackathon(SIH)-2022
